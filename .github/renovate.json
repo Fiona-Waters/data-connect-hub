@@ -1,0 +1,6 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "enabledManagers": ["cargo", "dockerfile", "gomod"],
+  "prConcurrentLimit": 3,
+  "automerge": false
+}
